@@ -14,3 +14,5 @@ Localidad: San Cristobal en Venezuela
 Lenguaje: Pegandome en la cabeza con java
 
 **/
+
+![un gatito](edrondon.github.io/images/kitten.jpg)
