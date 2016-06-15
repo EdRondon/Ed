@@ -15,4 +15,4 @@ Lenguaje: Pegandome en la cabeza con java
 
 **/
 
-![un gatito](edrondon.github.io/images/kitten.jpg)
+![](http://edrondon.github.io/images/IMG_7704.jpg)
